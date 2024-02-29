@@ -1,0 +1,4 @@
+{
+    "image": "konderlip/data-fusion:7",
+    "entry_point": "python -u run.py"
+}
