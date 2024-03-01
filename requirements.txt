@@ -1,0 +1,6 @@
+ninja
+pytorch-lightning
+transformers
+implicit
+catboost
+polars==0.19.3
